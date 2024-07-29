@@ -5,6 +5,7 @@ Clone
 git clone https://github.com/khomasl/airline.git
 ```
 
+Then
 ```bash
 cd airline
 ```
@@ -28,16 +29,6 @@ $ pip3 install Django
 ### Run it
 
 Run the SERVER with:
-
-<div class="termy">
-
-```console
-$ python manage.py runserver
-```
-
-</div>
-
-Run the PROJECT with:
 
 <div class="termy">
 
